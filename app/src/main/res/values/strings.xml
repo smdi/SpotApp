@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spot App</string>
+    <string name="title_activity_maps_page">Map</string>
+</resources>

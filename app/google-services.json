@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507923129888",
+    "firebase_url": "https://spot-project-15f06.firebaseio.com",
+    "project_id": "spot-project-15f06",
+    "storage_bucket": "spot-project-15f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507923129888:android:5087c6b197f363d95b7e45",
+        "android_client_info": {
+          "package_name": "com.smile.spotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507923129888-iadpsr6ilsteembjhpbivfii86tkkcl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smile.spotapp",
+            "certificate_hash": "f1a5ed5d0e9a7003be9c9e9b5e19a675130d2120"
+          }
+        },
+        {
+          "client_id": "507923129888-d94h13f5ckjtcnh5vg4s5vc433ckon7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5NKn225Xo_YczWc8JLZrJPuRz0r7KYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507923129888-d94h13f5ckjtcnh5vg4s5vc433ckon7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
